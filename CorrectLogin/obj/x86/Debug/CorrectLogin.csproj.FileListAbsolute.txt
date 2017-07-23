@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\Lesson5\CorrectLogin\bin\Debug\CorrectLogin.exe
+E:\Matyukov\csharp\Lesson5\CorrectLogin\bin\Debug\CorrectLogin.pdb
+E:\Matyukov\csharp\Lesson5\CorrectLogin\obj\x86\Debug\CorrectLogin.exe
+E:\Matyukov\csharp\Lesson5\CorrectLogin\obj\x86\Debug\CorrectLogin.pdb

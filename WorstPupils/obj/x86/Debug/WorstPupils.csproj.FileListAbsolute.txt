@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\Lesson5\WorstPupils\bin\Debug\WorstPupils.exe
+E:\Matyukov\csharp\Lesson5\WorstPupils\bin\Debug\WorstPupils.pdb
+E:\Matyukov\csharp\Lesson5\WorstPupils\obj\x86\Debug\WorstPupils.exe
+E:\Matyukov\csharp\Lesson5\WorstPupils\obj\x86\Debug\WorstPupils.pdb

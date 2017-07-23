@@ -1,0 +1,5 @@
+E:\Matyukov\csharp\Lesson5\LineIsShiftAnother\bin\Debug\LineIsShiftAnother.exe
+E:\Matyukov\csharp\Lesson5\LineIsShiftAnother\bin\Debug\LineIsShiftAnother.pdb
+E:\Matyukov\csharp\Lesson5\LineIsShiftAnother\obj\x86\Debug\LineIsShiftAnother.exe
+E:\Matyukov\csharp\Lesson5\LineIsShiftAnother\obj\x86\Debug\LineIsShiftAnother.pdb
+E:\Matyukov\csharp\Lesson5\LineIsShiftAnother\obj\x86\Debug\LineIsShiftAnother.csprojResolveAssemblyReference.cache

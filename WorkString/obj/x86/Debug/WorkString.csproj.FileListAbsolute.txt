@@ -1,0 +1,4 @@
+E:\Matyukov\csharp\Lesson5\WorkString\bin\Debug\WorkString.exe
+E:\Matyukov\csharp\Lesson5\WorkString\bin\Debug\WorkString.pdb
+E:\Matyukov\csharp\Lesson5\WorkString\obj\x86\Debug\WorkString.exe
+E:\Matyukov\csharp\Lesson5\WorkString\obj\x86\Debug\WorkString.pdb
